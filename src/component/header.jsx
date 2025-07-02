@@ -1,7 +1,6 @@
 const Header=()=>{
     return(
 <>
-<h1>hhhhhhhhhhhh</h1>
 </>
     )
 }
