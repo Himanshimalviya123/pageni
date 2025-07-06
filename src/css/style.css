@@ -1,15 +1,175 @@
-.div1{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-wrap: column;
+*{
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  scroll-behavior: smooth;
+}
+#croma{
+    width: 80px;
+    
+}
+.d-flex{
+    width: 20%;
+}
+
+
+#container{
+   
+    background-color: black;
+    color: white;
+
+}
+#topHeader
+{
+    top: 0;
+    position: sticky;
+    z-index: 3;
+
+}
+
+#oo{
+    border-right: 1px solid white;
+    border-spacing: 5px;
+    /* margin-l: 15%; */
+    
+}
+#downnav{
+  position:sticky;
+  top:0;
+  z-index: 2;
+  background-color: black;
+  color: white;
+  width: 100%;
+  height:auto;
+  margin-top: 0px;
+  text-align: center;
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font: 1em sans-serif;
+  font-weight: bold;
+  box-shadow: 0px 0px 16px black;
+  transition: all 0.3s ease;
+  cursor: pointer;
+  border-radius: 10px;
+  text-decoration: none;
+  color: white;
+ 
+
+
+}
+/* .container1{
+  width: 100%;
+  height: 100%;
+  color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+
+} */
+.me-auto1{
+  width:100%;
+  height:100%;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  padding:10px;
+color: black;
+  
+}
+.me-auto1 img{
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  box-shadow: 0px 0px 16px black;
+  margin-top:10px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+
+}
+/* ///////////////////////////////////// */
+.heading{
+    background-color: black;
+    color: white;
     width: 100%;
     height: 50px;
-    background-color: #f8f8f8;
+    margin-top: 10px;
+ text-align: center;
+ position: relative;
 }
-.product{
+.cardData{
     display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 20px;
+    /* margin-top/: 20px; */
+}
+
+.card{
+    background-color: white;
+    color: black;
+    width: 300px;
+    height: auto;
+  border-radius:"10px";
+  box-shadow: 0px 0px 16px black;
+  margin-top: 20px;
+  padding: 10px;
+  text-align: center;
+  transition: all 0.3s ease;
+  cursor: pointer;
+
+}
+.shop{
+   display: flex;
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
+    width: 100%;
+    height: 100%;
+    gap: 10px;
+    margin: 10px;
+}
+.movement{
+     display:flex;
+     width: 100%;
+     height:80%;
+     padding-bottom:0px;
+}
+.movement img{
+width:100%;
+height: 80%;
+margin: 10px;
+
+}
+
+.movein{
+    display: flex;
+  grid-template-rows: auto auto;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  width:50%;
+  height:100%;
+  margin: 20px auto;
+  padding: 20px;
+  margin-bottom: 0%;
+
+
+}
+.movein img{
+    width: 250px;
+    height: 200px;
+  border-radius: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border: 1px solid #ccc;
+    cursor: pointer;
+
+
+  
+
+  
 }

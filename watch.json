@@ -2,11 +2,14 @@
     "watches":[
         {
             "id":1,
-            "name":"Vibez by Lifelong Xena Smartwatch for Women",
-            "description":"Vibez by Lifelong Xena Smartwatch for Women with HD Display| ECG+PPG|Body Temprature|24x7 Heart Rate & SpO2 Tracking| Sports Mode|IP68|10 Days Battery Backup(VBSWW126, Gold)",
-            "image":"https://m.media-amazon.com/images/I/81Tj+-rVmUL._SL1500_.jpg",
+            "name":"Titan Women's Lagan Watch: Rose Gold Accents & Refined Elegance",
+            "description":"Achieve timeless elegance with this watch featuring a clean white dial, dotted gold indices, and skeletal hands. The sliding clasp ensures ultimate comfort, while stone detailing and a rose gold dial add a touch of sophistication. Perfect for both casual and dressy occasions, pair it with a floral sundress or an elegant evening gown.",
+            "image":"https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw6c9df22a/images/Titan/Catalog/2656WM01_1.jpg?sw=600&sh=600",
             "category":"women",
-            "price":1380
+            "price":2685,
+            "DisplayBrand":"Titan"
+
+
         },
         {
             "id":2,
@@ -18,11 +21,12 @@
         },
         {
             "id":3,
-            "name":"Fire-Boltt Ninja Call Pro Plus Smart Watch 1.83 inch",
-            "description":"Fire-Boltt Ninja Call Pro Plus Smart Watch 1.83 inch with Bluetooth Calling, AI Voice Assistance, 100 Sports Modes IP67 Rating, 240 * 280 Pixel High Resolution (Black)",
-            "image":"https://m.media-amazon.com/images/I/61rmkmqD5VL._SL1500_.jpg",
+            "name":"Fastrack Marvellous FX2 Unisex Smart Watch With Grey Metal Strake",
+            "description":"3. 9 CM AMOLED Display with 480x480 resolution and 1000 nits peak brightness, delivering crisp visuals even under direct sunlight. Equipped with a dual-core chipset and fluidic UI for a seamless user experience, along with dynamic watch faces for personalized styling. SingleSync BT Calling and quick reply support for easy communications. ",
+            "image":"https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwf5666e88/images/Fastrack/Catalog/38148QM01_1.jpg?sw=600&sh=600",
             "category":"men",
-            "price":999
+            "price":6499,
+            "Display Brand":"Fastrack"
         },
         {
             "id":4,
@@ -34,11 +38,13 @@
         },
         {
             "id":5,
-            "name":"Fire-Boltt Ninja Call Pro Plus Smart Watch 1.83 inch with Bluetooth Calling",
-            "description":"Fire-Boltt Ninja Call Pro Plus Smart Watch 1.83 inch with Bluetooth Calling, AI Voice Assistance, 100 Sports Modes IP67 Rating, 240 * 280 Pixel High Resolution (Black)",
-            "image":"https://m.media-amazon.com/images/I/61rmkmqD5VL._SL1500_.jpg",
+            "name":"Fastrack Optimus 2 Pro 3.63 cm AMOLED, Advanced Blazing Fast UI, AOD, Metal Case, IP68, Working Crown Smartwatch",
+            "description":"Fastrack Optimus 2 Pro 3.63 cm AMOLED Display with Bright Pixel Resolution,SingleSync BT Calling with Advanced Chipset, Calculator, AI Voice Assistant, 100+ Sports Modes, One Click Health Measurement, Auto Stress Monitor, 24x7 Heart Rate Monitor, SpO2 and Sleep Monitor with REM Sleep, Breathe Exercise, Alarm, Stopwatch and Timer, Notifications, Weather Display, Camera and Music Control",
+            "image":"https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw466c87a7/images/Fastrack/Catalog/38153WP01_1.jpg?sw=600&sh=600",
             "category":"men",
-            "price":999
+            "price":2599,
+            "DisplayBrand":"Fastrack"
+
         },
         {
             "id":6,
@@ -58,11 +64,13 @@
         },
         {
             "id":8,
-            "name":"SELLORIA Analog White Dial Boys' & Girls' Watch Best Gift for Kids",
-            "description":"SELLORIA Analog White Dial Boys' & Girls' Watch Best Gift for Kids",
-            "image":"https://m.media-amazon.com/images/I/61CxUFXaJ9L._SY879_.jpg",
-            "category":"kids",
-            "price":1000
+            "name":"Titan Karishma Green Dial Analog Stainless Steel Strap watch for Men",
+            "description":"This watch offers 24 months warranty on the Movement and 12 months warranty on the Battery from the date of purchase",
+            "image":"https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwf61cb8ec/images/Titan/Catalog/1650YM08_1.jpg?sw=600&sh=600",
+            "category":"men",
+            "price":2635,
+            "DisplayBrand":"Titan"
+
         },
         {
             "id":9,
@@ -74,11 +82,52 @@
         },
         {
             "id":10,
-            "name":"Matrix Daisy Collection | Stone Studded Dial with Designer Stone",
-            "description":"Matrix Daisy Collection | Stone Studded Dial with Designer Stone Studded Bracelet Chain Analog Watch for Women & Girls",
-            "image":"https://m.media-amazon.com/images/I/71-AwogLPqL._SX679_.jpg",
+            "name":"Titan Karishma Zing Quartz Analog Green Dial Silver Stainless Steel Strap Watch For Men",
+            "description":"This watch offers 24 months warranty on the Movement and 12 months warranty on the Battery from the date of purchase",
+            "image":"https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwcde5700f/images/Titan/Catalog/1648SM01_1.jpg?sw=600&sh=600",
+            "category":"men",
+            "price":1615,
+            "DisplayBrand":"Titan"
+
+        },
+        {
+             "id":11,
+            "name":"Zoop Doraemon Analog Watch with Blue Dial & Blue Strap for Boys Girls Kids, from House of Titan",
+             "description":"Let your child join in on the fun with Zoop's Doraemon-inspired analog watch. Adorned with vibrant characters, this timepiece brings the charm of their favorite show to their wrist, making timekeeping an enchanting experience",
+            "image":"https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwc67518aa/images/Titan/Catalog/26019PP36W_1.jpg?sw=600&sh=600",
+            "category":"kids",
+            "price":715,
+            "DisplayBrand":"zoop"
+
+        },
+        {
+             "id":12,
+            "name":"Titan Raga Quartz Analog Rose Gold Round Dial Rose Gold Metal Strap Watch For Women",
+             "description":"Add a touch of romance to your evenings with this Raga watch. The sectional glistening rose gold dial and rose gold metal case, paired with a linked square design bracelet, create an enchanting and stylish timepiece. Perfect for date nights, this watch enhances your charm and complements your elegant attire.",
+            "image":"https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw1e380d61/images/Titan/Catalog/2725WM01_1.jpg?sw=600&sh=600",
             "category":"women",
-            "price":1499
+            "price":4295,
+            "DisplayBrand":"Titan"
+        },
+        {
+        "id":13,
+            "name":"Titan Women's Lagan Chic: Studded Brown Dial watch with & Elegant Hands",
+             "description":"Embrace everyday sophistication with this sleek and small watch featuring a brown classic dial, dotted indices, and stone detailing. The rose gold bezel and light grey leather straps make it perfect for everyday wear. Style it with tailored trousers and a blouse for a polished and feminine look suitable for the office or casual outings.",
+            "image":"https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwf87788bb/images/Titan/Catalog/2656WL01_1.jpg?sw=600&sh=600",
+            "category":"women",
+            "price":1795,
+            "DisplayBrand":"Titan"
+
+        },
+         {
+        "id":14,
+            "name":"Titan Raga Showstopper Quartz Analog Golden Dial Metal Strap Watch For Women",
+             "description":"Embrace everyday sophistication with this sleek and small watch featuring a brown classic dial, dotted indices, and stone detailing. The rose gold bezel and light grey leather straps make it perfect for everyday wear. Style it with tailored trousers and a blouse for a polished and feminine look suitable for the office or casual outings.",
+            "image":"https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw7e29daa8/images/Titan/Catalog/95305YM01_1.jpg?sw=600&sh=600",
+            "category":"women",
+            "price":5645,
+            "DisplayBrand":"Titan"
+
         }
     ]
 }
