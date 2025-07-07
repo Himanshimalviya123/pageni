@@ -3,7 +3,7 @@ import Card from 'react-bootstrap/Card';
 import { useState,useEffect } from 'react';
 import axios from 'axios';
 import { useDispatch } from 'react-redux';
-import { addtocart } from '../cartslice';
+import { addToCart } from '../cartslice';
 const Kidswatches=()=>{
     const [data,setData]=useState([]);
 const Dispatch=useDispatch();
@@ -26,7 +26,7 @@ return(
           Category:{key.category}<br/>
 
          Price : {key.price}
-        <Button variant="primary" onClick={()=>{addtocart({id:key.id,name:key.name,category:key.category,price:key.price})}}>buy</Button>
+        <Button variant="primary" onClick={()=>{ Dispatch(addToCart({id:key.id,name:key.name,category:key.category,price:key.price}))}}>buy</Button>
       </Card.Body>
     </Card>
     </>

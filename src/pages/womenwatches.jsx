@@ -2,7 +2,7 @@ import Button from 'react-bootstrap/Button';
 import Card from 'react-bootstrap/Card';
 import { useState,useEffect } from "react";
 import { useDispatch } from "react-redux";
-import { addtocart } from '../cartslice';
+import {  addToCart} from '../cartslice';
 import axios from 'axios';
 const Womenwatches=()=>{
   const [data,setData]=useState([]);
@@ -25,7 +25,7 @@ setData(response.data)
         <Card.Title>{key.name}</Card.Title>
        category:{key.category}<br/>
        price:{key.price}<br/>
-        <Button variant="primary" onClick={()=>{Dispatch(addtocart({id:key.id,name:key.name,category:key.category,price:key.price}))}}>buy</Button>
+        <Button variant="primary" onClick={()=>{Dispatch( addToCart({id:key.id,name:key.name,category:key.category,price:key.price}))}}>buy</Button>
       </Card.Body>
     </Card>
       </>

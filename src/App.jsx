@@ -4,6 +4,7 @@ import Home from "./pages/home";
 import Kidswatches from "./pages/kidswatches";
 import Womenwatches from "./pages/womenwatches";
 import Menwatches from "./pages/menwatches";
+import MyCart from "./pages/mycartslice"
 
 const App=()=>{
   return(
@@ -16,6 +17,8 @@ const App=()=>{
       <Route path="kidswatches" element={<h1><Kidswatches/></h1>}/>
       <Route path="womenwatches" element={<Womenwatches/>}/>
       <Route path="menWatches" element={<Menwatches/>}/>
+      <Route path="mycartslice" element={<MyCart/>}/>
+
 
 
 
