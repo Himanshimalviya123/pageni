@@ -22,7 +22,7 @@ const Topmenu=()=>{
             <Nav.Link as={Link} to="menwatches"><h5>menwatches</h5></Nav.Link>
             <Nav.Link as={Link} to="womenwatches"><h5>womenwatches</h5></Nav.Link>
             <Nav.Link as={Link} to="kidswatches"><h5>kidswatches</h5></Nav.Link> 
-           <Nav.Link as={Link} to="mycartslice">Mycart</Nav.Link> 
+           <Nav.Link as={Link} to="carddata">carddata</Nav.Link> 
    
              <Form className="d-flex">
             <Form.Control
