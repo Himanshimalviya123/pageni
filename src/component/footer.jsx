@@ -1,7 +1,7 @@
 const Footer=()=>{
     return(
         <>
-        <p>company reversed by5678</p>
+        <p>TITANIC WATCHES</p>
         </>
     )
 }

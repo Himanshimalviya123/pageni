@@ -29,7 +29,7 @@ const navigate= useNavigate();
               placeholder="search products"
               className="me-2"
               aria-label="Search"
-            />
+  />
 </Form>
 {/* <button onchange="sing()" className="headers">Signup</button>
             <button onchange="logout()" className="headers">Logout</button> */}
