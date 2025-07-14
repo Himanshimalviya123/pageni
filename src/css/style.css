@@ -209,6 +209,10 @@ margin: 10px;
     cursor: pointer;
   
 }
+#foot{
+  background-color: black;
+  color: #ccc;
+}
 #footer{
   display: flex;
   justify-content: space-around;
